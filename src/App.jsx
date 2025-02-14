@@ -20,7 +20,7 @@ function App() {
     
      <div style={{backgroundColor:bg,color:text}} className='slow-change h-screen w-full flex flex-col justify-center items-center space-y-2'>
       <h1 className='text-3xl font-bold'>Hello Welcome</h1>
-      <p className='text-xl '>For this Redux code: <a className='text-lg text-blue-800' href="">link</a> </p>
+      <p className='text-xl '>For this Redux code: <a className='text-[15px] text-blue-800' href="https://github.com/sheik180403/Dark-mode-with-Redux.git">https://github.com/sheik180403/Dark-mode-with-Redux.git</a> </p>
       <h1 className='mt-5'>Light/Dark Toggle Button</h1>
 
     <div>
